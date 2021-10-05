@@ -1,0 +1,41 @@
+body {
+  background-color: #888888;
+  display:table-cell; 
+  text-align:center; 
+  vertical-align:middle;
+}
+
+html, body { 
+  height:100%;
+}
+
+html {
+  display:table; 
+  width:100%;
+}
+
+h1 {
+  font-family: 'Staatliches';
+  font-size:60px;
+  color: #D7FCE1;
+}
+
+h2 {
+  font-family: 'Staatliches';
+  font-size:30px;
+  color: #444444;
+}
+
+p {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: white;
+}
+
+a {
+  color: #E6C3F0;
+}
+
+.home {
+  width: 60%;
+}
